@@ -1,5 +1,4 @@
 # Flashcards
--
 ## A CLI Memorisation aid
 
 ## Example:
@@ -8,6 +7,8 @@
 flashcards -c [NAME] # Creates a new deck of flashcards.
 
 flashcards -l [NAME] # Loads a deck of flashcards.
+```
+```
 ```
 ```
 ```
